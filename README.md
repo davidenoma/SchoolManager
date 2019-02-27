@@ -1,0 +1,2 @@
+# SchoolManager
+1. A management  system for a secondary school including classes jss1, jss2, jss3, sss1, sss2, sss3. The software stores student bio data, results and school fees information.  2. I built it using Java 7, Java Swing and an SQLite data base for portability. 3. The project was able to manage student information such as school fees, results, bio data, subjects taken and current class.
